@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1722302011 source:c:\users\mikel\documents\c_estudo\maloc\main.cpp
+	<iostream>
+	"AddMemory.h"
+
+1722302023 c:\users\mikel\documents\c_estudo\maloc\addmemory.h
+	<iostream>
+	<stdlib.h>
+
